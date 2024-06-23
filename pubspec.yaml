@@ -1,0 +1,113 @@
+name: cf_sarasavi_app
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+#----------------------- PACKAGES -------------------#
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Utility Packages
+  http: ^1.2.1
+  intl: ^0.19.0
+  logger: ^2.1.0
+  url_launcher: ^6.2.6
+  flutter_native_splash: ^2.4.0
+  smooth_page_indicator: ^1.1.0
+  multi_select_flutter: ^4.1.3
+  flutter_credit_card: ^4.0.1
+  file_picker: ^8.0.3
+  image_picker: ^1.1.2
+  shimmer: ^3.0.0
+  flutter_slidable: ^3.1.0
+  lottie: ^3.1.0
+  connectivity_plus: ^5.0.2
+  flutter_dropzone: ^3.0.7
+  flutter_typeahead: ^5.2.0
+  clipboard: ^0.1.3
+
+  # Firebase
+  firebase_core: ^2.31.1
+  firebase_auth: ^4.19.6
+  cloud_firestore: ^4.17.4
+  firebase_storage: ^11.7.6
+
+  # Web Specific
+  web: ^0.5.1
+  html: ^0.15.4
+  fl_chart: ^0.66.2
+  data_table_2: ^2.5.12
+  url_strategy: ^0.2.0
+
+  # Icons
+  iconsax: ^0.0.8
+  cupertino_icons: ^1.0.6
+
+  # State Management
+  get: ^4.6.6
+  get_storage: ^2.1.1
+
+
+  # Product Specific
+  carousel_slider: ^4.2.1
+  cached_network_image: ^3.3.1
+  test_api: ^0.7.0
+  rxdart: ^0.27.7
+  meta: ^1.12.0
+
+
+  #------------------ ./ PACKAGES END ------------------#
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^3.0.0
+
+
+
+flutter:
+
+  uses-material-design: true
+
+  #-------------------- LOCAL ASSETS -------------------#
+  assets:
+    - assets/logos/
+    - assets/icons/categories/
+    - assets/images/on_boarding_images/
+    - assets/images/banners/
+    - assets/images/payment/
+    - assets/images/brand_logo/
+    - assets/images/user/
+    - assets/images/animations/
+
+  #------------------ LOCAL FONTS -------------------#
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Black.ttf
+        - asset: assets/fonts/Poppins-BlackItalic.ttf
+        - asset: assets/fonts/Poppins-Bold.ttf
+        - asset: assets/fonts/Poppins-BoldItalic.ttf
+        - asset: assets/fonts/Poppins-ExtraBold.ttf
+        - asset: assets/fonts/Poppins-ExtraBoldItalic.ttf
+        - asset: assets/fonts/Poppins-ExtraLight.ttf
+        - asset: assets/fonts/Poppins-ExtraLightItalic.ttf
+        - asset: assets/fonts/Poppins-Italic.ttf
+        - asset: assets/fonts/Poppins-Light.ttf
+        - asset: assets/fonts/Poppins-LightItalic.ttf
+        - asset: assets/fonts/Poppins-Medium.ttf
+        - asset: assets/fonts/Poppins-MediumItalic.ttf
+        - asset: assets/fonts/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+        - asset: assets/fonts/Poppins-SemiBoldItalic.ttf
+        - asset: assets/fonts/Poppins-Thin.ttf
+        - asset: assets/fonts/Poppins-ThinItalic.ttf

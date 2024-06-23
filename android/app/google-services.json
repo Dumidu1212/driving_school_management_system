@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "1076376296371",
+    "project_id": "sarasavi-learners-system",
+    "storage_bucket": "sarasavi-learners-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076376296371:android:de8e9f9b83e645500249c6",
+        "android_client_info": {
+          "package_name": "com.circuitforge.sarasavilearnersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076376296371-p7a0sci8nlpf5o9ihkspl888v7gcj772.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF5RbNm8l0p1DIeWwhocoesnYQEGZD7z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076376296371-p7a0sci8nlpf5o9ihkspl888v7gcj772.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1076376296371-0u512pakh4nv9rna46r4f8iisnv5m6ok.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sarasaviLearnersManagementSystem"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076376296371:android:7b8042f47cc8b23b0249c6",
+        "android_client_info": {
+          "package_name": "com.example.cf_sarasavi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076376296371-p7a0sci8nlpf5o9ihkspl888v7gcj772.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF5RbNm8l0p1DIeWwhocoesnYQEGZD7z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076376296371-p7a0sci8nlpf5o9ihkspl888v7gcj772.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1076376296371-0u512pakh4nv9rna46r4f8iisnv5m6ok.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sarasaviLearnersManagementSystem"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076376296371:android:a344bd55a7f9125a0249c6",
+        "android_client_info": {
+          "package_name": "com.example.sarasavi_learners_management_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076376296371-aun2pa7poiuma2eqnh43pitdifg1kkt8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sarasavi_learners_management_system",
+            "certificate_hash": "b335f3328dec9bf9a3f4cf1b78a4b08aa651a56a"
+          }
+        },
+        {
+          "client_id": "1076376296371-p7a0sci8nlpf5o9ihkspl888v7gcj772.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF5RbNm8l0p1DIeWwhocoesnYQEGZD7z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076376296371-p7a0sci8nlpf5o9ihkspl888v7gcj772.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1076376296371-0u512pakh4nv9rna46r4f8iisnv5m6ok.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sarasaviLearnersManagementSystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
