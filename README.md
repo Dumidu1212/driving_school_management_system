@@ -62,7 +62,7 @@ flowchart TD
 
 ```
 # 1) Clone the repository
-git clone https://github.com/Dumidu1212/cf_sarasavi_app.git
+git clone https://github.com/Dumidu1212/driving_school_management_system.git
 cd cf_sarasavi_app
 
 # 2) Install Flutter dependencies
