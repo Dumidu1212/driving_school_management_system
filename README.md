@@ -1,4 +1,4 @@
-# 🚘 Driving School Management App
+# 🚘 Driving School Management System
 
 > A mobile-first platform for driving school operations — enabling real-time tracking, instructor management, and student learning flow. Built with **Flutter** and powered by **Firebase**, this app simplifies scheduling, training, and fee tracking for both students and instructors.
 
